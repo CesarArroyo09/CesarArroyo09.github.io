@@ -1,12 +1,14 @@
-AUTHOR = 'César Arroyo'
-SITENAME = 'César Arroyo'
+AUTHOR = "César Arroyo"
+SITENAME = "César Arroyo"
 SITEURL = ""
 
 PATH = "content"
 
-TIMEZONE = 'America/Mexico_City'
+TIMEZONE = "America/Mexico_City"
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = "en"
+
+THEME = "themes/pelican-alchemy/alchemy"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
